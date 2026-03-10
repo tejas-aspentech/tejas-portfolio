@@ -54,7 +54,7 @@ export default function Navbar() {
       window.removeEventListener('scroll', handleScroll);
       observer.disconnect();
     };
-  }, []);
+  }, [navItems]);
 
   const scrollToSection = (href: string) => {
     const element = document.querySelector(href);

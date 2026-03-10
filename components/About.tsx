@@ -15,7 +15,7 @@ export default function About() {
           <h2 className="text-4xl font-bold mb-8 text-center">About Me</h2>
           <div className="prose prose-lg dark:prose-invert mx-auto">
             <p className="text-gray-600 dark:text-gray-300 mb-4">
-              I'm an experienced Software Engineer with a strong foundation in Java, Python, and SQL, 
+              I&apos;m an experienced Software Engineer with a strong foundation in Java, Python, and SQL, 
               specializing in backend development and the end-to-end Software Development Life Cycle (SDLC).
             </p>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
@@ -24,7 +24,7 @@ export default function About() {
               and implementing scalable solutions that drive real business impact.
             </p>
             <p className="text-gray-600 dark:text-gray-300">
-              I'm dedicated to developing scalable, high-impact software solutions within fast-paced, 
+              I&apos;m dedicated to developing scalable, high-impact software solutions within fast-paced, 
               collaborative environments. Always eager to tackle challenging problems and learn new technologies.
             </p>
           </div>
