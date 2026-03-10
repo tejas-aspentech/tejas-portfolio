@@ -10,7 +10,7 @@
 
 ### Option 1: Deploy via Azure Portal (Recommended for Beginners)
 
-1. **Push code to GitHub**
+1. **Push code to GitHub** 
    ```bash
    git init
    git add .
